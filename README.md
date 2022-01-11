@@ -1,5 +1,9 @@
 ## 华为MateBookHZW19-M56Y54-HD515-Hackintosh-OpenCore
 
+### 简单预览
+![关于本机](https://github.com/xinzhangsw/MateBookHZW19-M56Y54-HD515-Hackintosh-OpenCore/blob/master/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202022-01-11%20%E4%B8%8B%E5%8D%884.24.49.png)
+* 具体核显加速情况、跑分等参考images文件夹
+
 ### 支持情况
 - [x] CPU M5-6Y54;睿频正常
 - [x] iGPU HD515;正确设置缓冲帧,核显加速正常
@@ -17,18 +21,15 @@
 - [ ] 自带扩展坞有线网卡 BCM2045A0;暂时无解
 
 ### BIOS版本
-
 * 华为BIOS堪称简洁(la kua),啥都没有。基本全靠EFI
 
 当前BIOS版本：1.53 &nbsp;&nbsp; [BIOS下载地址](https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2Py07DMBBF_8XrqhrX43HMijwcqQsIUsq6smsXrLZJlSYgivh3HBSxPJozuvd-s-kWht3XNbAHtmEr5vvPbkFKeIzn8GwvMz7ZMbi-P-2LbdPu-VqK9T1eF-fFju_JcRZQg6CD1gHJ8kyADl47QLDBeZ9sF-9bn9S2eWw5ASBXUs_JhyHYMfbdLs5x6aRRpD8OACt2i2-dHadhLlKXSJWgQokKTVVyo0yBvAQkI0tOBchcIaqaKiNBZvlGFZiR5HWeKUIDKevDnqN__V8-DlP4a7Ysbxv28ws6GTbhGgEAAA%3D%3D.zip)
 
 ### BIOS设置
-
 * 安全启动：关闭
 * 安全芯片：关闭
 
 ### OpenCore
-
 OpenCore: 0.7.6
 
 下载地址: [Download](https://github.com/acidanthera/OpenCorePkg/releases/)
