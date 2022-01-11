@@ -91,4 +91,5 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 
 ### 结语
 * 本EFI依照OpenCore Guide: [文档地址](https://caizhiyuan.gitee.io/opencore-install-guide/prerequisites.html) 规范编写
+* 本EFI支持High Sierra10.13.6至Big Sur11.2.3;因外置USB网卡驱动选择的当期版本
 * 备用机很多细节没有深究
