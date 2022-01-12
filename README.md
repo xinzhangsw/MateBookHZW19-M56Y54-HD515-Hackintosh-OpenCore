@@ -38,7 +38,7 @@ OpenCore: 0.7.6
 * 建议使用 【黑果小兵】macOS 安装镜像进行安装
 
 ### 关于Mac序列号的问题
-* 下载 OpenCore Configurator,选中PlatformInfo-机型平台设置,并在下方选择`MacBookPro9,1`机型生成UUID并替换本部分缺失内容
+* 下载 OpenCore Configurator,选中PlatformInfo-机型平台设置,并在下方选择`MacBook9,1`机型生成UUID并替换本部分缺失内容
 
 ```
 <key>PlatformInfo</key>
@@ -64,7 +64,7 @@ OpenCore: 0.7.6
             <key>SystemMemoryStatus</key>
             <string>Auto</string>
             <key>SystemProductName</key>
-            <string>MacBookPro9,1</string>
+            <string>MacBook9,1</string>
             <key>SystemSerialNumber</key>
             <string>XXXXXXXXXXXX</string>
             <key>SystemUUID</key>
