@@ -1,7 +1,7 @@
 ## 华为MateBookHZW19-M56Y54-HD515-Hackintosh-OpenCore
 
 ### 简单预览
-![关于本机](https://github.com/xinzhangsw/MateBookHZW19-M56Y54-HD515-Hackintosh-OpenCore/blob/master/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202022-01-11%20%E4%B8%8B%E5%8D%884.24.49.png)
+![关于本机](https://github.com/xinzhangsw/MateBookHZW19-M56Y54-HD515-Hackintosh-OpenCore/blob/master/images/%E6%88%AA%E5%B1%8F2022-03-23%2004.25.11.png)
 * 具体核显加速情况、跑分等参考images文件夹
 * 本EFI支持High Sierra10.13.6至Monterey12.3.1
 * 本EFI支持在线升级
