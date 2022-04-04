@@ -225,7 +225,7 @@ sudo pmset -c autopoweroff 0
 sudo pmset -c tcpkeepalive 1
 ```
 
-*电池供电设置
+* 电池供电设置
 ```
 // 20 分钟后进入休眠
 sudo pmset -b sleep 20
