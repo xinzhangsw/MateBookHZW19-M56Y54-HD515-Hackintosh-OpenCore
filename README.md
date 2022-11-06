@@ -6,7 +6,7 @@
 * 流畅度有明显提升
 
 ### 简单预览
-![关于本机](https://github.com/xinzhangsw/MateBookHZW19-M56Y54-HD515-Hackintosh-OpenCore/blob/master/images/%E6%88%AA%E5%B1%8F2022-03-23%2004.25.11.png)
+![关于本机](https://github.com/xinzhangsw/MateBookHZW19-M56Y54-HD515-Hackintosh-OpenCore/blob/master/images/QQ%E5%9B%BE%E7%89%8720221106214621.png)
 * 具体核显加速情况、跑分等参考images文件夹
 * 本EFI支持High Sierra10.13.6至Ventura13.0
 * 本EFI支持在线升级
