@@ -1,9 +1,14 @@
 ## 华为MateBookHZW19-M56Y54-HD515-Hackintosh-OpenCore
 
+### 更新情况
+* 目前更新至`Ventura 22A380`; opencore版本为`0.8.5`
+* 由于之前使用的MacBook9,1已无法更新至Ventura, 此次改为MacBookAir8,1且核显仿冒为UHD617
+* 流畅度有明显提升
+
 ### 简单预览
 ![关于本机](https://github.com/xinzhangsw/MateBookHZW19-M56Y54-HD515-Hackintosh-OpenCore/blob/master/images/%E6%88%AA%E5%B1%8F2022-03-23%2004.25.11.png)
 * 具体核显加速情况、跑分等参考images文件夹
-* 本EFI支持High Sierra10.13.6至Monterey12.3.1
+* 本EFI支持High Sierra10.13.6至Ventura13.0
 * 本EFI支持在线升级
 
 ### 支持情况
@@ -32,7 +37,7 @@
 * 安全芯片：关闭
 
 ### OpenCore
-OpenCore: 0.7.8
+OpenCore: 0.8.5
 
 下载地址: [Download](https://github.com/acidanthera/OpenCorePkg/releases/)
 
@@ -250,7 +255,7 @@ sudo pmset -b acwake 0
 ```
 
 ### 关于Mac序列号的问题
-* 下载 OpenCore Configurator,选中PlatformInfo-机型平台设置,并在下方选择`MacBook9,1`机型生成UUID并替换本部分缺失内容
+* 下载 OpenCore Configurator,选中PlatformInfo-机型平台设置,并在下方选择`MacBookAir8,1`机型生成UUID并替换本部分缺失内容
 
 ```
 <key>PlatformInfo</key>
